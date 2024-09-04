@@ -51,3 +51,4 @@ brew install jq gron
 
 brew install yt-dlp
 
+brew install notion rsync tmux openssl@3 gnu-sed gnupg
